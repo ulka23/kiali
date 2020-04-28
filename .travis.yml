@@ -3,6 +3,7 @@ language: go
 arch:
   - amd64
   - arm64
+  - ppc64le
 
 go:
 - 1.14
